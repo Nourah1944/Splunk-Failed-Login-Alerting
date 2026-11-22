@@ -48,3 +48,10 @@ Lab Environment
 -  Scheduled Alert Configuration
 -  Security Event Investigation
 -  Detection Testing and Validation
+
+#Screenshots
+
+### Failed Login Detection
+![Failed Login Detection](Screenshots/failed%20login%20detection.png)
+### Triggered SOC Alert
+![Triggered SOC Alert](Screenshots/triggered-alert.png)
